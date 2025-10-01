@@ -1,2 +1,4 @@
-# 63
-JS for HTML Program-40
+function showGreeting(){
+    alert("Hello, Iam alert!!");
+    console.log("Greeting alert shown......");
+}
